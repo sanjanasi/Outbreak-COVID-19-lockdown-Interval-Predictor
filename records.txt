@@ -1,0 +1,9 @@
+Name is sanju, Age is 18, Contact Number is 113434678, Gender is  Female
+User's Country of reident indiia, cases 200000
+User's Country of reident indiia, cases 20000
+Name is Sanjana, Age is 18, Contact Number is 1234567890, Gender is  Female
+User's Country of reident India, cases 10000
+User's Country of reident India, cases 100000
+User's Country of reident India, cases 10000000
+Name is sanju, Age is 19, Contact Number is 1234567890, Gender is  Female
+User's Country of reident india, cases 2678789
